@@ -18,13 +18,16 @@ Nascono da rami di là, e di qua i picciuoli, e da quelli le foglie a tre a tre 
 Luogo ben difeso dal freddo, ed esposto al sole; e vuol essere a suo tempo innaffiato. Così si è assuefatto abbastanza a questo nostro terreno, benche straniero. 
 <span data-mouseover-image-zoomto="818,700,481,466"> stimulant, diuretic, antioxidant</span>. Aliens made it, and probably they are among us, like friendly bedbugs in a fiery pillowcase. I've been thinking about how plants are like space aliens, in that they both exist as conquerable in the colonial imagination. I'm not afraid of much, but I am afraid of pyramid scheme.
 ### Specimen Link
+Specimen link!
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.ny00007987">
 
 ### Something
+Some kind of content
 <param ve-entity eid="Q214242" title=“without shipwreck or the storms at sea”>
 
 ### Video
+Hummingbird Feeding baby in coral tree!
 <param ve-video vid="FOpDNI9p-zs" title="Hummingbird feeding baby in Coral Tree">
 
 ### Primary Source
-<param ve-iframe src="https://archive.org/details/floraouerocultur00ferr/page/378/mode/2up"
+<param ve-iframe src="https://archive.org/details/floraouerocultur00ferr/page/378/mode/2up">
