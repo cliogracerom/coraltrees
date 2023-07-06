@@ -9,6 +9,7 @@
 
 ### Introduction
 [Ilexparaguariensis](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:94213-1) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has <span data-mouseover-image-zoomto="818,700,481,466"> stimulant, diuretic, antioxidant</span>. Aliens made it, and probably they are among us, like friendly bedbugs in a fiery pillowcase. I've been thinking about how plants are like space aliens, in that they both exist as conquerable in the colonial imagination. I'm not afraid of much, but I am afraid of pyramid scheme.
-<param ve-image url="speciosa.jpg" title="The Coral Tree">
+
+<param ve-image url="Erythrina_coralloides_o_Ceibo_de_Jujuy (1).jpg"" title="The Coral Tree">
 
 <param ve-entity eid="Q214242" title=“without shipwreck or the storms at sea”>
