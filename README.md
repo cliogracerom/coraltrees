@@ -18,6 +18,13 @@ E la Rosa della China. Ma la Musa indiana della foglia larga, leggiadra al fiore
 Nascono da rami di là, e di qua i picciuoli, e da quelli le foglie a tre a tre in sembianza di triangolo: e col bel verde loro ne danno speranza di avere a cogliere coralli nei fiori, senza avere bisogno di pescargli nel mare tra le tempeste, e naufragi. I fiori, che dovranno gareggiare col corallo, e al tutto abbellire, e nobilitare questa pianta, per essere ella immatura, ancora si attendono: e allo sfiorire si spera, che sia per far baccelli, e frutti simili ai fagiuoli, ma del medesimo colore corallino. Intanto, come tutte le sorti di agrumi, profitta col molto sole, e molto acqua, e coll’esser difesa dal freddo. Il Fagiuolo del Brasile da seme nericio, della grandezza del lupino, ma piegato a luna, posto vicino ai mattoni delle aiuole, in buona terra, e ben minuta, qual s’adopra pe’ medesimi agrumi, è venuto cosi felicemente, che in un anno si è innalzato all’altezza di quindici palmi. Ha un sol gambo, sottile, fiacco, e come di vite, bisognoso d’appoggio. Dall’una e dall’altra parte ha gli occhi come a vicenda, che insieme non corrispondono, distanti quattro dita l’uno dall’altro; da cui nascono i ramicelli lunghi pur quattro dita, con tre, o quattro foglie assai larghe, come quelle del melo cotogno, sempre verdi. Dagli occhi stessi vengono alcune vergelle altrettanto più lunghe, che hanno in punta da prima un fiore come di fava, pare candido, parte rossiccio; indi un baccello; benché questo non sia ancor venuto. Questa specie di legume indiano si pone in luogo
 Luogo ben difeso dal freddo, ed esposto al sole; e vuol essere a suo tempo innaffiato. Così si è assuefatto abbastanza a questo nostro terreno, benche straniero. 
 <span data-mouseover-image-zoomto="818,700,481,466"> stimulant, diuretic, antioxidant</span>. Aliens made it, and probably they are among us, like friendly bedbugs in a fiery pillowcase. I've been thinking about how plants are like space aliens, in that they both exist as conquerable in the colonial imagination. I'm not afraid of much, but I am afraid of pyramid scheme.
+### Timeline
+<param ve-knightlab-timeline
+       source="1Uoyco0dqS1bEV7jgrdgRVlu7CYMhz_rZZKC2RteGed0"
+       timenav-position="bottom"
+       hash-bookmark="false"
+       intitial-zoom="1"
+       height="750"
 ### Specimen Link
 Specimen link!
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.ny00007987">
