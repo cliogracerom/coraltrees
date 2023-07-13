@@ -41,3 +41,7 @@ Hummingbird Feeding baby in coral tree!
 ### Primary Source
 Giovanni Battista Ferrari, Flora Overo Cultura Dei Fiori, Published in Italian, 1636. Drawing and Engraving by Anna Maria Vaianni.
 <param ve-iframe src="https://archive.org/details/floraouerocultur00ferr/page/378/mode/2up?view=theater">
+
+### Base Map
+This is a base map!
+<param ve-map basemap="Esri_WorldPhysical"
