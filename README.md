@@ -24,7 +24,7 @@ Luogo ben difeso dal freddo, ed esposto al sole; e vuol essere a suo tempo innaf
        timenav-position="bottom"
        hash-bookmark="false"
        intitial-zoom="1"
-       height="750"
+       height="750">
 ### Specimen Link
 Specimen link!
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.ny00007987">
