@@ -44,4 +44,4 @@ Giovanni Battista Ferrari, Flora Overo Cultura Dei Fiori, Published in Italian, 
 
 ### Base Map
 This is a base map!
-<param ve-map basemap="Esri_WorldPhysical"
+<param ve-map basemap="Esri_WorldPhysical">
