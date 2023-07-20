@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Aztec, material use, Pre-Columbian",
+        "purpose": "tagging"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Example of a tzompantli as a \"skull rack\" to display the heads of sacrificial victims.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/f9db3d492c1556fbc9a6fa3c6feccbd8c2aee75d968f18cbb62cfc2b9766968d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:456.22509765625,12.806280136108398,342.05126953125,557.6923160552979"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1a563226-2492-48d6-9ad5-094ea8514089"
+  }
+]
