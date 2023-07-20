@@ -52,4 +52,4 @@ Image Annotation!
 
 ### Building a useful map
 customized map
-<param ve-map>
+<param ve-map title= "distribution map">
