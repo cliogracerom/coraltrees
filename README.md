@@ -47,4 +47,5 @@ This is a base map!
 <param ve-map basemap="Esri_WorldPhysical">
 
 ### Image
+Image Annotation!
 <param ve-image url="https://commons.wikimedia.org/wiki/File:Tzompantli_Tovar.jpeg">
