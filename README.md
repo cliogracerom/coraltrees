@@ -48,4 +48,4 @@ This is a base map!
 
 ### Image
 Image Annotation!
-<param ve-image src="Tzompantli_Tovar.jpeg">
+<param ve-image url="Tzompantli_Tovar.jpeg">
