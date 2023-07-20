@@ -45,3 +45,6 @@ Giovanni Battista Ferrari, Flora Overo Cultura Dei Fiori, Published in Italian, 
 ### Base Map
 This is a base map!
 <param ve-map basemap="Esri_WorldPhysical">
+
+### Image
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Tzompantli_Tovar.jpeg">
