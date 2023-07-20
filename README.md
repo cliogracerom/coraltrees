@@ -52,4 +52,5 @@ Image Annotation!
 
 ### Building a useful map
 customized map
-<param ve-map title= "distribution map" center="19.427047917923073, -99.13142900288899" zoom="8">
+<param ve-map title= "distribution map" center="19.427047917923073, -99.13142900288899" zoom="3">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/cliogracerom/coraltrees/main/AztecEmpire.json">
