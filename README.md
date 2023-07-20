@@ -48,4 +48,4 @@ This is a base map!
 
 ### Image
 Image Annotation!
-<param ve-image url="[https://commons.wikimedia.org/wiki/File:Tzompantli_Tovar.jpeg](https://upload.wikimedia.org/wikipedia/commons/a/ae/Tzompantli_Tovar.jpeg)https://upload.wikimedia.org/wikipedia/commons/a/ae/Tzompantli_Tovar.jpeg">
+<param ve-image src="(https://upload.wikimedia.org/wikipedia/commons/a/ae/Tzompantli_Tovar.jpeg)https://upload.wikimedia.org/wikipedia/commons/a/ae/Tzompantli_Tovar.jpeg">
